@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MachineLearning", "MachineLearning", "{A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classification (SVMs)", "MachineLearning\Classification (SVMs)\Classification (SVMs).csproj", "{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering (GMMs)", "MachineLearning\Clustering (GMM)\Clustering (GMMs).csproj", "{6EE43C30-5232-4B18-802B-7D536EA4DCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering (K-Means, MeanShift)", "MachineLearning\Clustering (K-Means)\Clustering (K-Means, MeanShift).csproj", "{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decision Trees", "MachineLearning\Decision Trees\Decision Trees.csproj", "{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naive Bayes", "MachineLearning\Naive Bayes\Naive Bayes.csproj", "{79DAA213-B774-444D-85B1-7AA727C036E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9ED3BF2A-3434-4C0F-B6BF-F616EED59DA4}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering 2D (K-Means, MeanShift, GMM)", "MachineLearning\Clustering 2D (K-Means, MeanShift, GMM)\Clustering 2D (K-Means, MeanShift, GMM).csproj", "{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Mono|x86 = Mono|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}.Debug|x86.ActiveCfg = Debug|x86
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}.Debug|x86.Build.0 = Debug|x86
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}.Mono|x86.ActiveCfg = Release|x86
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}.Mono|x86.Build.0 = Release|x86
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}.Release|x86.ActiveCfg = Release|x86
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D}.Release|x86.Build.0 = Release|x86
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE}.Debug|x86.ActiveCfg = Debug|x86
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE}.Debug|x86.Build.0 = Debug|x86
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE}.Mono|x86.ActiveCfg = Release|x86
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE}.Mono|x86.Build.0 = Release|x86
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE}.Release|x86.ActiveCfg = Release|x86
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE}.Release|x86.Build.0 = Release|x86
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}.Debug|x86.ActiveCfg = Debug|x86
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}.Debug|x86.Build.0 = Debug|x86
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}.Mono|x86.ActiveCfg = Release|x86
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}.Mono|x86.Build.0 = Release|x86
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}.Release|x86.ActiveCfg = Release|x86
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A}.Release|x86.Build.0 = Release|x86
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}.Debug|x86.ActiveCfg = Debug|x86
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}.Debug|x86.Build.0 = Debug|x86
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}.Mono|x86.ActiveCfg = Release|x86
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}.Mono|x86.Build.0 = Release|x86
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}.Release|x86.ActiveCfg = Release|x86
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F}.Release|x86.Build.0 = Release|x86
+		{79DAA213-B774-444D-85B1-7AA727C036E7}.Debug|x86.ActiveCfg = Debug|x86
+		{79DAA213-B774-444D-85B1-7AA727C036E7}.Debug|x86.Build.0 = Debug|x86
+		{79DAA213-B774-444D-85B1-7AA727C036E7}.Mono|x86.ActiveCfg = Release|x86
+		{79DAA213-B774-444D-85B1-7AA727C036E7}.Mono|x86.Build.0 = Release|x86
+		{79DAA213-B774-444D-85B1-7AA727C036E7}.Release|x86.ActiveCfg = Release|x86
+		{79DAA213-B774-444D-85B1-7AA727C036E7}.Release|x86.Build.0 = Release|x86
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}.Debug|x86.ActiveCfg = Debug|x86
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}.Debug|x86.Build.0 = Debug|x86
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}.Mono|x86.ActiveCfg = Release|x86
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}.Mono|x86.Build.0 = Release|x86
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}.Release|x86.ActiveCfg = Release|x86
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{503EF9C0-CE83-40BE-98B2-3481D9FE3B0D} = {A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}
+		{6EE43C30-5232-4B18-802B-7D536EA4DCCE} = {A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}
+		{8433F722-C197-4BCD-9E5D-08A6B2FAF23A} = {A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}
+		{67D5F5DD-95D8-4DF3-B4F4-B43A2FCFE02F} = {A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}
+		{79DAA213-B774-444D-85B1-7AA727C036E7} = {A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}
+		{A8AD00C6-19D5-4BF4-81D6-E9ECE047F48D} = {A0409E80-C6CE-4DEA-9825-92A2A6BDDC45}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Accord.NET.vsmdi
+	EndGlobalSection
+EndGlobal

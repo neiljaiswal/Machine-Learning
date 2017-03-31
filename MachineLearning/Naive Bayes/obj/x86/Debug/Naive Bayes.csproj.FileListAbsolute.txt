@@ -1,0 +1,43 @@
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.dll.config
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Resources\examples.xls
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Naive Bayes.exe.config
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Naive Bayes.exe
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Naive Bayes.pdb
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Controls.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.IO.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.MachineLearning.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Math.Core.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Math.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Statistics.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\ZedGraph.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Controls.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.IO.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.MachineLearning.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Math.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Math.Core.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\Accord.Statistics.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\ZedGraph.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\de\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\es\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\fr\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\hu\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\it\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\ja\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\pt\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\ru\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\sk\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\sv\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\tr\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\zh-cn\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\zh-tw\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\obj\x86\Debug\SampleApp.MainForm.resources
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\obj\x86\Debug\SampleApp.Properties.Resources.resources
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\obj\x86\Debug\Components.TableSelectDialog.resources
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\obj\x86\Debug\Naive Bayes.csproj.GenerateResource.Cache
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\obj\x86\Debug\Naive Bayes.exe
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\obj\x86\Debug\Naive Bayes.pdb
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\MetroFramework.Design.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\MetroFramework.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Naive Bayes\bin\Debug\MetroFramework.Fonts.dll

@@ -1,0 +1,24 @@
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.dll.config
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Clustering (K-Means).exe.config
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Clustering (K-Means).exe
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Clustering (K-Means).pdb
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Imaging.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.MachineLearning.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Math.Core.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Math.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Statistics.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Imaging.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.MachineLearning.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Math.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Math.Core.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Statistics.xml
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\obj\x86\Debug\SampleApp.MainForm.resources
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\obj\x86\Debug\SampleApp.Properties.Resources.resources
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\obj\x86\Debug\Clustering (K-Means, MeanShift).csproj.GenerateResource.Cache
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\obj\x86\Debug\Clustering (K-Means).exe
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\obj\x86\Debug\Clustering (K-Means).pdb
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\MetroFramework.Design.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\MetroFramework.dll
+\\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Clustering (K-Means)\bin\x86\Debug\MetroFramework.Fonts.dll
