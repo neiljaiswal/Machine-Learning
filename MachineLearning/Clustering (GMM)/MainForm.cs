@@ -17,7 +17,7 @@ namespace SampleApp
     ///   estimate the original models from the data again using Gaussian mixtures.
     /// </summary>
     /// 
-    public partial class MainForm : MetroForm
+    public partial class MainForm : Form
     {
         // Visually distinct colors used in the pie graphics
         ColorSequenceCollection colors = new ColorSequenceCollection();

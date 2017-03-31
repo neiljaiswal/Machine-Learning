@@ -20,7 +20,7 @@ namespace SampleApp
     ///   Classification using Naive Bayes.
     /// </summary>
     /// 
-    public partial class MainForm : MetroForm
+    public partial class MainForm : Form
     {
 
         private NaiveBayes<NormalDistribution> bayes;

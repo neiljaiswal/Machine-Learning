@@ -25,7 +25,7 @@ namespace SampleApp
     ///   Classification sample application using Kernel Support Vector Machines.
     /// </summary>
     /// 
-    public partial class MainForm : MetroForm
+    public partial class MainForm : Form
     {
 
         IMulticlassClassifier<double[], int> clustering;

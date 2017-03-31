@@ -71,7 +71,6 @@
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\bin\x86\Debug\tr\ZedGraph.resources.dll
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
-\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\obj\x86\Debug\Clustering (GMMs).csprojResolveAssemblyReference.cache
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\obj\x86\Debug\SampleApp.MainForm.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\obj\x86\Debug\SampleApp.Properties.Resources.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (GMM)\obj\x86\Debug\Clustering (GMMs).csproj.GenerateResource.Cache

@@ -77,7 +77,6 @@
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\tr\ZedGraph.resources.dll
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
-\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\Classification (SVMs).csprojResolveAssemblyReference.cache
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\SampleApp.MainForm.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\SampleApp.TableSelectDialog.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\Classification (SVMs).csproj.GenerateResource.Cache

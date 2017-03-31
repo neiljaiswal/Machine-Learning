@@ -20,7 +20,7 @@ namespace SampleApp
     ///   Classification using Decision Trees.
     /// </summary>
     /// 
-    public partial class MainForm : MetroForm
+    public partial class MainForm : Form
     {
 
         // current tree

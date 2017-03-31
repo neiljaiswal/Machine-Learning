@@ -78,7 +78,6 @@
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\bin\Debug\tr\ZedGraph.resources.dll
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\bin\Debug\zh-cn\ZedGraph.resources.dll
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\bin\Debug\zh-tw\ZedGraph.resources.dll
-\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\obj\x86\Debug\Naive Bayes.csprojResolveAssemblyReference.cache
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\obj\x86\Debug\SampleApp.MainForm.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\obj\x86\Debug\SampleApp.Properties.Resources.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Naive Bayes\obj\x86\Debug\Components.TableSelectDialog.resources

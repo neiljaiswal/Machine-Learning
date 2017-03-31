@@ -41,7 +41,6 @@
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Math.xml
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Math.Core.xml
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\bin\x86\Debug\Accord.Statistics.xml
-\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\obj\x86\Debug\Clustering (K-Means, MeanShift).csprojResolveAssemblyReference.cache
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\obj\x86\Debug\SampleApp.MainForm.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\obj\x86\Debug\SampleApp.Properties.Resources.resources
 \\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Clustering (K-Means)\obj\x86\Debug\Clustering (K-Means, MeanShift).csproj.GenerateResource.Cache

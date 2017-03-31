@@ -16,7 +16,7 @@ namespace SampleApp
     ///   of colors in a sample image.
     /// </summary>
     /// 
-    public partial class MainForm : MetroForm
+    public partial class MainForm : Form
     {
 
         public MainForm()
