@@ -40,3 +40,46 @@
 \\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Classification (SVMs)\bin\x86\Debug\MetroFramework.Design.dll
 \\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Classification (SVMs)\bin\x86\Debug\MetroFramework.dll
 \\10.2.10.43\Complete Access\Neil\framework-development\framework-development\Samples\MachineLearning\Classification (SVMs)\bin\x86\Debug\MetroFramework.Fonts.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Resources\examples.xls
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.dll.config
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Classification (SVMs).exe.config
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Classification (SVMs).exe
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Classification (SVMs).pdb
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Controls.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.IO.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.MachineLearning.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Math.Core.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Math.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Statistics.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\MetroFramework.Design.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\MetroFramework.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\MetroFramework.Fonts.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\ZedGraph.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Controls.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.IO.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.MachineLearning.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Math.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Math.Core.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\Accord.Statistics.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\ZedGraph.xml
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\de\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\es\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\fr\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\hu\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\it\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\ja\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\pt\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\ru\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\sk\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\sv\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\tr\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\Classification (SVMs).csprojResolveAssemblyReference.cache
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\SampleApp.MainForm.resources
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\SampleApp.TableSelectDialog.resources
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\Classification (SVMs).csproj.GenerateResource.Cache
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\Classification (SVMs).exe
+\\10.2.10.43\Complete Access\Neil\Classfication of Data\MachineLearning\Classification (SVMs)\obj\x86\Debug\Classification (SVMs).pdb
